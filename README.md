@@ -11,7 +11,7 @@
 
 - 📝 I write articles on [https://medium.com/@abhijitjitan](https://medium.com/@abhijitjitan)
 
-- 💬 Ask me about **Tensorflow , Pytorch , python , Data Science**
+- 💬 Ask me about **python , Tensorflow , Pytorch , Computer Vision , Data Science , NLP**
 
 - 📫 How to reach me **jitan.abhijit@gmail.com**
 
