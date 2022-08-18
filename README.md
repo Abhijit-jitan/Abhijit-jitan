@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijit-jitan" alt="abhijit-jitan" /></a> </p>
 
-- 🔭 I’m currently working on [Face Attendance System](https://github.com/Abhijit-jitan/Face-Attendance-System)
+- 🔭 I’m currently working on [Parking Management System & Auto-ML](https://github.com/Abhijit-jitan/Face-Attendance-System)
 
 - 🌱 I’m currently learning **Deep Learning & Computer Vision**
 
