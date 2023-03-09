@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijit Sutar</h1>
-<h3 align="center">A passionate About AI/ML , Data Science , Cloud</h3>
+<h3 align="center">Passionate About AI/ML , Data Science , Cloud</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijit-jitan&label=Profile%20views&color=0e75b6&style=flat" alt="abhijit-jitan" /> </p>
 
