@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijit-jitan" alt="abhijit-jitan" /></a> </p>
 
-- 🔭 I’m currently working on (https://github.com/Abhijit-jitan/issue-ticket)
+- 🔭 I’m currently working on Issue Ticket Application to ease tracking issue
 
-- 🌱 I’m currently learning **Deep Learning & Computer Vision**
+- 🌱 I’m currently learning **Devops, MLops & GenAI**
 
 - 📝 I write articles on [https://medium.com/@abhijitjitan](https://medium.com/@abhijitjitan)
 
